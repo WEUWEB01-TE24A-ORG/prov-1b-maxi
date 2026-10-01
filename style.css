@@ -1,0 +1,19 @@
+
+
+body{
+    background-image: url(./bilder/bakgrund.jpg);
+background-size: cover;
+}
+h1{color: #38f7ff;}
+h2 {color: #38f7ff;}
+h3{color: #38f7ff;}
+p{background-color: #00a6ad;}
+a{}
+img{background-color: #00a6ad;}
+table{border: 30px;
+background-color: #38f7ff;
+
+}
+tr{}
+th{}
+td{}
